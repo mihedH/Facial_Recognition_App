@@ -29,7 +29,7 @@
   <h3 align="center">Facial recognition application</h3>
 
   <p align="center">
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="[https://github.com/othneildrew/Best-README-Template](https://drive.google.com/drive/folders/1SHHnfMpers5ITjPwYGi-Hdg6Ho9DgDbT?usp=sharing)">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
