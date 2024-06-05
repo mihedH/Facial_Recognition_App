@@ -94,6 +94,10 @@ The interface allows users to upload images and view recognition results, includ
 ## Getting Started
 
 To get started with the project, simply clone the repository and follow the installation instructions provided in the README.md file.
+To Run the project :
+  ```sh 
+  pnpm run dev
+  ```
 
 ### Prerequisites
 
